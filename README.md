@@ -4,6 +4,8 @@ this is my project for the wechat media platform.
 
 it's based on the flask, flask-restplus and werobot which is the core component for wechat mp dev
 
+the python version is python2.7
+
 the db is mariadb
 ## Functions
 return msg
